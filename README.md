@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![logo](https://i.postimg.cc/0QzgfdJW/White-and-Red-Light-Game-Channel-Youtube-Channel-Art.png)
 <h1 align="center">Hi 👋, I'm Lalith</h1>
 <h3 align="center">A Cyber Security scholar and secure Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
