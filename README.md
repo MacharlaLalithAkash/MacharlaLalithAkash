@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/0QzgfdJW/White-and-Red-Light-Game-Channel-Youtube-Channel-Art.png)
+![logo](https://i.postimg.cc/v8qW67Qg/github.png)
 <h1 align="center">Hi 👋, I'm Lalith</h1>
 <h3 align="center">A Cyber Security scholar and secure Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
